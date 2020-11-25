@@ -1,13 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+//import axios from 'axios'
 
 function App() {
+
   return (
     <div className="App">
+      <h1>MUSIC LIBRARY </h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Tara</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          this is <code>Taea.com/me</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -18,6 +22,8 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <footer>Powered by: <a href="www.musixmatch.com">MusixMatch</a></footer>
     </div>
   );
 }
