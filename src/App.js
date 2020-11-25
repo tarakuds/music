@@ -15,7 +15,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Tara</h1>
         <p>
-          this is <code>Taea.com/me</code> and save to reload.
+          this is <code>Tara.com/me</code> and save to reload.
         </p>
         <a
           className="App-link"
